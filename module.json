@@ -1,6 +1,6 @@
 {
-    "servers": ["https://raw.githubusercontent.com/Xertyn/bahaar-wave-practice/master/"],
-    "supportUrl": "https://github.com/Xertyn/bahaar-wave-practice/issues",
+    "servers": ["https://raw.githubusercontent.com/Kaseaa/bahaar-wave-practice/master/"],
+    "supportUrl": "https://github.com/Kaseaa/bahaar-wave-practice/issues",
     "name": "bahaar-waves",
     "disableAutoUpdate": false,
     "dependencies": {
@@ -9,6 +9,6 @@
     "options": {
         "guiName": "Bahaar wave practice"
     },
-    "author": "Kaseaa, Xertyn",
+    "author": "Kasea",
     "description": "Tera bahaar wave practice tool"
 }
